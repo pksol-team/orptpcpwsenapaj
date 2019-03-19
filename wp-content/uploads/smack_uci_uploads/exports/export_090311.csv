@@ -1,0 +1,17 @@
+"post_title","ID","post_content","post_excerpt","post_date","post_name","post_author","post_status","featured_image","nextgen-gallery","post_parent","menu_order","wp_page_template","comment_status","ping_status"
+"サンプルページ","2","これはサンプルページです。同じ位置に固定され、(多くのテーマでは) サイトナビゲーションメニューに含まれるため、ブログ投稿とは異なります。サイト訪問者に対して自分のことを説明する自己紹介ページを作成するのが一般的です。たとえば以下のようなものです。
+
+<blockquote>はじめまして。昼間はバイク便のメッセンジャーとして働いていますが、俳優志望でもあります。これは僕のサイトです。ロサンゼルスに住み、ジャックという名前のかわいい犬を飼っています。好きなものはピニャコラーダ、そして通り雨に濡れること。</blockquote>
+
+または、このようなものです。
+
+<blockquote>XYZ 小道具株式会社は1971年の創立以来、高品質の小道具を皆様にご提供させていただいています。ゴッサム・シティに所在する当社では2,000名以上の社員が働いており、様々な形で地域のコミュニティへ貢献しています。</blockquote>
+
+新しく WordPress ユーザーになった方は、<a href=""http://rekibundb.f-demo.com/wp-admin/"">ダッシュボード</a>へ行ってこのページを削除し、独自のコンテンツを含む新しいページを作成してください。それでは、お楽しみください !",,"2018-08-20 13:39:22","sample-page","Demo_staff","publish",,,"0","0","default",0,"open"
+"master form","212",,,"2019-01-04 13:24:23","master-form","Demo_staff","publish",,,"0","0","master-form.php",0,"closed"
+"Program form","228",,,"2019-01-04 15:50:11","program-form","Demo_staff","publish",,,"2","0","default",0,"closed"
+"テスト","4085","<p>[vc_row][vc_column][vc_basic_grid post_type=""master"" max_items=""10"" element_width=""12"" gap=""0"" item=""4089"" initial_loading_animation=""none"" grid_id=""vc_gid:1552034661992-4e8948fd-b59a-10""][/vc_column][/vc_row]</p>
+",,"2019-03-08 03:50:01","%e3%83%86%e3%82%b9%e3%83%88","Demo_staff","publish",,,"0","0",,0,"closed"
+"プログラム","4111","<p>[vc_row][vc_column][vc-acf-field-picker field_context=""page_custom"" page_type=""program"" page_custom=""東京文化会館ミュージック・ワークショップ「ムジカ・ピッコラ」"" page_custom_field_id=""overview"" page_id=""3329"" data_context=""3329""][wpdatatable table_view=""excel""][/vc_column][/vc_row]</p>
+",,"2019-03-08 08:14:52","%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%a0","Demo_staff","publish",,,"0","0",,0,"closed"
+"データベース","4294","[wpdatatable id=4]",,"2019-03-08 17:55:52","%e3%83%87%e3%83%bc%e3%82%bf%e3%83%99%e3%83%bc%e3%82%b9","Demo_staff","publish",,,"0","0",,0,"closed"

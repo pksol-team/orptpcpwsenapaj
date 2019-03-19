@@ -1,0 +1,10 @@
+.acf-field[data-acf-relationship-edit-enabled="true"] span.acf-rel-item a[data-action="acf-relationship-edit"] {
+  display: none;
+  float: right;
+  text-decoration: none; }
+.acf-field[data-acf-relationship-edit-enabled="true"] span.acf-rel-item:hover a[data-action="acf-relationship-edit"], .acf-field[data-acf-relationship-edit-enabled="true"] span.acf-rel-item:focus a[data-action="acf-relationship-edit"] {
+  display: inline-block; }
+.acf-field[data-acf-relationship-edit-enabled="true"] div.values span.acf-rel-item a[data-action="acf-relationship-edit"] {
+  right: 34px; }
+
+/*# sourceMappingURL=acf-relationship-edit.css.map */

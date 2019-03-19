@@ -1,0 +1,36 @@
+# Translation of Plugins - Version Info - Stable (latest release) in German
+# This file is distributed under the same license as the Plugins - Version Info - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-10 17:26:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0\n"
+"Language: de\n"
+"Project-Id-Version: Plugins - Version Info - Stable (latest release)\n"
+
+#: version-info.php:41
+msgid "You are running WordPress %s  | PHP %s | %s | MySQL %s"
+msgstr "Du verwendest WordPress %s  | PHP %s | %s | MySQL %s"
+
+#. Author URI of the plugin/theme
+msgid "http://alpipego.com/"
+msgstr "http://alpipego.com/"
+
+#. Author of the plugin/theme
+msgid "alpipego"
+msgstr "alpipego"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/version-info"
+msgstr "https://de.wordpress.org/plugins/version-info"
+
+#. Plugin Name of the plugin/theme
+msgid "WordPress Version Info"
+msgstr "WordPress Version Info"
+
+#. Description of the plugin/theme
+msgid "Show current WordPress, PHP, Web Server and MySQL versions in admin footer"
+msgstr "Zeigt dir die aktuell verwendeten WordPress, PHP, Webserver und MySQL Versionen im Admin Footer an."
