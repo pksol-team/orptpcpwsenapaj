@@ -8041,3 +8041,58 @@ div.wpcf7 .wpcf7-form .ajax-loader {
         right: 0;
 }
 }
+
+.business_meta {
+    background-color: #d9d9d9;
+    color: #000;
+    font-size: 15px;
+    padding: 0;
+}
+
+.business_name {
+    padding: 10px 10px;
+}
+
+.business_sponsored {
+    background-color: grey;
+    color: #fff;
+    padding: 10px 10px;
+}
+
+.custom-business {
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid grey;
+}
+
+.business_categories {
+    margin-top: 20px;
+}
+
+.business_details {
+    margin-top: 10px;
+}
+
+.business_summary h6 {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+.cat_title {
+    padding: 10px; 
+    margin-top: 10px;
+}
+
+.program_title {
+    border: 1px solid #ddd;
+    padding: 10px; 
+    margin-top: 10px;
+}
+
+.program_meta {
+    margin: 20px;
+}
+
+.business_name a, .program_title a {
+    color: #000;
+}
