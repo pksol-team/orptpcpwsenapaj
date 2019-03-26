@@ -8096,3 +8096,70 @@ div.wpcf7 .wpcf7-form .ajax-loader {
 .business_name a, .program_title a {
     color: #000;
 }
+
+.business_detail_page {
+    margin-top: 20px;    
+}
+
+
+div#detailed_search .row {
+    margin: 0 -15px;
+}
+
+p.advance_search {
+    margin-top: 25px;
+    cursor: pointer;
+}
+
+p.cirteria {
+	margin: 40px 0;
+}
+
+div#detailed_search nav.breadcrumb h1 {
+    margin: 38px 0;
+}
+
+div#detailed_search form > .container > .row {
+    border-bottom: 1px solid #ccc;
+    padding: 24px 0;
+}
+
+div#detailed_search form > .container > .row .form-group {
+    margin-bottom: 0;
+}
+
+.form-group label {
+    font-weight: 500;
+    color: #8e8482;
+    font-size: 17px;
+}
+
+div#detailed_search form > .container > .row:last-child {
+    border: 0;
+}
+
+p.basic_search span {
+    cursor: pointer;
+}
+
+p.basic_search {
+    margin-bottom: 45px;
+}
+
+.business_detail_page h6 {
+    border: 1px solid grey;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.detail-business_page_head {
+    margin: 10px !important;
+}
+
+.detail-business-program h6 {
+    background-color: #d9d9d9;
+    color: #000;
+    font-size: 15px;
+    padding: 0;
+    padding: 10px;
+}
